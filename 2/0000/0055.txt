@@ -1,5 +1,3 @@
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
 Connesso con il Mondo di\xfffe\xf000Ā\x0001\x0000!
 Connesso con il Mondo di\xfffe\xf000Ā\x0001\x0000!
 \xf000Ā\x0001\x0000 è nell'Intramondo.
@@ -54,12 +52,12 @@ Qualcuno sta visitando \xfffeil tuo Mondo.
 Un'altra persona del mondo \xfffeè sul punto di scomparire.
 \xf000Ā\x0001\x0000 is battling here.
 まもなく　フェスミッションを　かいしします\xfffeしばらく　おまちください
-Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarsi in quel luogo.
-Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarsi in quel luogo.
-Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarsi in quel luogo.
-Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarsi in quel luogo.
-Toccare con lo stilo il punto dove si desidera nascondere l'oggetto\xfffetper teletrasportarsi in quel luogo.
-Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarsi in quel luogo.
+Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarti in quel luogo.
+Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarti in quel luogo.
+Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarti in quel luogo.
+Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarti in quel luogo.
+Toccare con lo stilo il punto dove si desidera nascondere l'oggetto\xfffetper teletrasportarti in quel luogo.
+Tocca con lo stilo dov'è l'avventuriero  \xfffetper teletrasportarti in quel luogo.
 .
 Vieni a giocare nel mondo di \xf000Ā\x0001\x0000.
 Vieni a giocare nel mondo di \xf000Ā\x0001\x0000.
